@@ -6,3 +6,5 @@ The limitation of my program so far is that each RES file has its own palette an
 TO DO would be to figure out if there's a specific file where all palettes are stored.
 Or just get them out manually loading each individual world and create a mapping for each RES file in the game. Each world has
 its own palette and from what I got, each RES file corresponds to a specific world/screen.
+
+This repository does NOT include any files from the game.
