@@ -1,5 +1,5 @@
 File unpacker for D3GR and WAV files from Sanitarium.
-D3GR is a graphic resource file type, the program will extract sprites included in the RES files from the game.
+D3GR is a graphic resource file type, the program will extract sprites included in the RES files from the game to a BMP file.
 I've abandoned this project, but I'm making it public so that if at some point anyone is trying to do the same thing, you can use my findings on this file format to do so.
 
 The limitation of my program so far is that each RES file has its own palette and finding each one through memory analysis was very taxing. 
